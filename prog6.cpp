@@ -1,3 +1,13 @@
+/*
+Jesus Rodriguez
+Program 6: C++ Classes 
+In our final assignment for this course, we will create a simple C++ program. 
+Using the examples provided in Exploration 6-3, we'll extend the Car class to
+add a bit more functionality.
+*/
+
+
+
 #include <iostream>
 using namespace std;
 
